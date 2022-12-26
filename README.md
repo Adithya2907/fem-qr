@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](https://github.com/Adithya2907/fem-qr/blob/main/images/image-qr-code.png)
 
 ### Links
 
